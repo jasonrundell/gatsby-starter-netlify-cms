@@ -37,12 +37,14 @@ const TemplateWrapper = ({ children }) => {
           href="/img/safari-pinned-tab.svg"
           color="#ff4400"
         />
-        <meta name="theme-color" content="#fff" />
+        <meta name="theme-color" content="#151c25" />
 
         <meta property="og:type" content="business.business" />
         <meta property="og:title" content={title} />
         <meta property="og:url" content="/" />
         <meta property="og:image" content="/img/og-image.jpg" />
+
+        <link rel="manifest" href="/site.webmanifest" />
       </Helmet>
       <Navbar />
       <div>{children}</div>
