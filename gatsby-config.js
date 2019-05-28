@@ -27,6 +27,18 @@ module.exports = {
         background_color: `#f7f0eb`,
         theme_color: `#a2466c`,
         display: `standalone`,
+        icons: [
+          {
+            src: `/img/icon192x192.png`,
+            type: `image/png`,
+            sizes: `192x192`
+          },
+          {
+            src: `/img/icon192x192.png`,
+            type: `image/png`,
+            sizes: `192x192`
+          }
+        ]
       },
     },
     {
