@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Welcome Hunter!
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming
+heading: Heading
+subheading: Are you ready to start scavenging?
 mainpitch:
   title: Why Kaldi
   description: >
